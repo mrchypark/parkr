@@ -1,2 +1,2 @@
 # parkr
-conversational agent add-in with rstudio
+onversational helper add-in with rstudio
